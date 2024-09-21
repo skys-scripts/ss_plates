@@ -1,35 +1,35 @@
 Config = {
 	Plates = {
-		{file = "sky_plate.png",
+		{file = "plate1_2_screw.png", --1
 		type = "image"},
-		{file = "sky_plate_Red.png",
+		{file = "plate2_2_screw.png", --2
 		type = "image"},
-		{file = "sky_plate_Yellow.png",
+		{file = "plate3_2_screw.png", --3
 		type = "image"},
-		{file = "sky_plate_Green.png",
+		{file = "plate4_2_screw.png", --4
 		type = "image"},
-		{file = "sky_plate_Blue.png",
+		{file = "plate5_2_screw.png", --5 GOV PLATE
 		type = "image"},
-		{file = "sky_plate_Pink.png",
+		{file = "plate6_2_screw.png", --6
 		type = "image"},
 
-	-- For any plates below this comment you need game build 3095 or higher
+	-- For any plates below this comment you need be using game build 3095 or higher
 
-		{file = "https://i.ibb.co/YQ1KYDk/paradise-city-plate-Black.png",
-		type = "url"},
-		{file = "https://i.ibb.co/DDLX7FN/fdYKraW.png",
-		type = "url"},
-		{file = "https://i.ibb.co/1qW71Ws/NmnAbCE.png",
-		type = "url"},
-		{file = "https://i.ibb.co/Xyr1QTT/RNw-Hu-Wr-1.png",
-		type = "url"},
-		{file = "https://i.ibb.co/Tt5pDyF/kdLNlJQ.png",
-		type = "url"},
-		{file =  "https://i.ibb.co/Xyr1QTT/RNw-Hu-Wr-1.png",
-		type = "url"},
-		{file = "template.png",
+		{file = "plate7_2_screw.png", --7
+		type = "image"},
+		{file = "plate8_2_screw.png", --8
+		type = "image"},
+		{file = "plate9_2_screw.png", --9
+		type = "image"},
+		{file = "plate10_2_screw.png", --10
+		type = "image"},
+		{file = "plate11_2_screw.png",--11
+		type = "image"},
+		{file = "plate12_2_screw.png", --12
+		type = "image"},
+		{file = "plate13_2_screw.png", --13
 		type = "image"},
 	},
 
-	NomralUV = "plateNormals.png"
+	NomralUV = "uv_template_2_screw.png" --[["plateNormals.png"]]
 }
