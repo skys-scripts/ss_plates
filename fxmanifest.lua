@@ -16,10 +16,17 @@ client_scripts {
 }
 
 files {
+    "README.md",
     'images/*.png'
+
 }
 
 escrow_ignore {
     "config.lua",
-    "client.lua"
+    "client.lua",
+    "README.md",
+    'images/*.png',
+    "images/*.psd"
 }
+
+lua54 'yes'
