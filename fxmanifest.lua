@@ -17,7 +17,8 @@ client_scripts {
 
 files {
     "README.md",
-    'images/*.png'
+    'images/*.png',
+    'templates/*.psd'
 
 }
 
@@ -26,7 +27,7 @@ escrow_ignore {
     "client.lua",
     "README.md",
     'images/*.png',
-    "images/*.psd"
+    "templates/*.psd"
 }
 
 lua54 'yes'
